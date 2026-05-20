@@ -1,0 +1,17 @@
+# JSONMind-CLI
+# AI-Powered Intelligent JSON Processing Engine
+# 轻量级AI驱动JSON智能处理引擎
+#
+# This project is designed to work with zero dependencies for core functionality.
+# The following optional dependencies enhance AI capabilities:
+
+# Optional: For enhanced AI features (OpenAI API support)
+# openai>=1.0.0
+
+# Optional: For enhanced AI features (Anthropic Claude support)
+# anthropic>=0.18.0
+
+# Development dependencies (not required for usage)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
